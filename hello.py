@@ -1,1 +1,1 @@
-print("hello dost ! v7")
+print"hello dost ! v7")
